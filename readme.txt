@@ -10,10 +10,6 @@ This ASP.NET Web Form has been verified to run on .NET 4.7.2. The iTextSharp lib
 
 License Details
 
-1. This software will be licensed under the Apache License Version 2.0.
-
-2. To apply the Apache license, include the following in each source file:
-
 Convert PDF-to-image-to-PDF 
 
 Copyright 2023 Pitney Bowes Inc.
