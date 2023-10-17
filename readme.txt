@@ -8,6 +8,8 @@ Installation
 
 This ASP.NET Web Form has been verified to run on .NET 4.7.2. The iTextSharp library should be placed in the bin/ folder. It assumed the source PDF to convert lives on the same server. 
 
+The iTextSharp library is licensed under the AGPLv3 license (see here for more information:  https://itextpdf.com/how-buy/AGPLv3-license). 
+
 License Details
 
 Convert PDF-to-image-to-PDF 
